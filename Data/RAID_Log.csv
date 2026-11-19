@@ -1,0 +1,35 @@
+RAIDID,Client,Type,Description,Severity,Owner,RaisedDate,DueDate,Status,Mitigation
+R001,Northbridge Press,Risk,Client source files arriving late,Low,Divya N,2025-01-02,2025-01-23,Open,See weekly status call notes
+R002,Northbridge Press,Risk,Client source files arriving late,Low,Karthik M,2025-01-04,2025-01-25,Open,See weekly status call notes
+R003,Northbridge Press,Risk,Key typesetter on leave in peak month,High,Divya N,2025-01-04,2025-01-25,Open,See weekly status call notes
+R004,Northbridge Press,Risk,Key typesetter on leave in peak month,High,Karthik M,2025-01-12,2025-02-02,Open,See weekly status call notes
+R005,Northbridge Press,Dependency,XML schema version not confirmed,Low,Divya N,2024-08-21,2024-09-11,Closed,See weekly status call notes
+R006,Larkfield Academic,Risk,Platform API access not yet granted,High,Balaji R,2024-11-05,2024-11-26,Open,See weekly status call notes
+R007,Larkfield Academic,Risk,Client source files arriving late,High,Karthik M,2024-10-13,2024-11-03,Closed,See weekly status call notes
+R008,Bluewater Journals,Assumption,Key typesetter on leave in peak month,High,Karthik M,2024-11-08,2024-11-29,Open,See weekly status call notes
+R009,Bluewater Journals,Dependency,Style guide changes after sample approval,High,Balaji R,2024-09-17,2024-10-08,Closed,See weekly status call notes
+R010,Bluewater Journals,Issue,Platform API access not yet granted,High,Karthik M,2024-10-08,2024-10-29,Closed,See weekly status call notes
+R011,Meridian Books,Issue,Client reviewer turnaround over 5 days,High,Balaji R,2024-09-05,2024-09-26,Closed,See weekly status call notes
+R012,Meridian Books,Risk,XML schema version not confirmed,Low,Divya N,2024-09-11,2024-10-02,Closed,See weekly status call notes
+R013,Meridian Books,Issue,Platform API access not yet granted,Medium,Priya S,2025-01-01,2025-01-22,Open,See weekly status call notes
+R014,Oakline Publishing,Risk,Volume higher than contracted,Low,Balaji R,2024-11-04,2024-11-25,Closed,See weekly status call notes
+R015,Oakline Publishing,Dependency,Volume higher than contracted,High,Balaji R,2024-09-27,2024-10-18,Closed,See weekly status call notes
+R016,Oakline Publishing,Dependency,Client reviewer turnaround over 5 days,High,Balaji R,2024-09-27,2024-10-18,Closed,See weekly status call notes
+R017,Oakline Publishing,Risk,Style guide changes after sample approval,Low,Priya S,2024-08-14,2024-09-04,Open,See weekly status call notes
+R018,Harbourview Media,Risk,Client source files arriving late,Medium,Balaji R,2025-01-07,2025-01-28,Open,See weekly status call notes
+R019,Harbourview Media,Risk,Client reviewer turnaround over 5 days,Medium,Karthik M,2024-08-21,2024-09-11,Open,See weekly status call notes
+R020,Harbourview Media,Assumption,Client source files arriving late,High,Priya S,2024-09-26,2024-10-17,Closed,See weekly status call notes
+R021,Harbourview Media,Dependency,Platform API access not yet granted,Medium,Priya S,2025-01-12,2025-02-02,Closed,See weekly status call notes
+R022,Silverpine Education,Risk,Client reviewer turnaround over 5 days,High,Priya S,2024-08-19,2024-09-09,Closed,See weekly status call notes
+R023,Silverpine Education,Risk,Assumes client provides final artwork by batch 2,Low,Divya N,2024-08-25,2024-09-15,Closed,See weekly status call notes
+R024,Silverpine Education,Dependency,Style guide changes after sample approval,Medium,Karthik M,2024-08-04,2024-08-25,Closed,See weekly status call notes
+R025,Silverpine Education,Risk,XML schema version not confirmed,High,Karthik M,2024-11-20,2024-12-11,Open,See weekly status call notes
+R026,Redstone Scientific,Risk,Client reviewer turnaround over 5 days,Low,Divya N,2024-10-04,2024-10-25,Closed,See weekly status call notes
+R027,Redstone Scientific,Issue,Volume higher than contracted,Low,Karthik M,2024-11-09,2024-11-30,Closed,See weekly status call notes
+R028,Redstone Scientific,Risk,Key typesetter on leave in peak month,High,Balaji R,2024-08-29,2024-09-19,Closed,See weekly status call notes
+R029,Westgate Law Reports,Risk,Key typesetter on leave in peak month,Low,Divya N,2024-10-05,2024-10-26,Open,See weekly status call notes
+R030,Westgate Law Reports,Risk,XML schema version not confirmed,Low,Karthik M,2024-08-27,2024-09-17,Open,See weekly status call notes
+R031,Westgate Law Reports,Assumption,Platform API access not yet granted,Medium,Karthik M,2024-12-21,2025-01-11,Closed,See weekly status call notes
+R032,Westgate Law Reports,Issue,Client source files arriving late,Low,Divya N,2024-08-03,2024-08-24,Closed,See weekly status call notes
+R033,Kestrel Medical,Dependency,Key typesetter on leave in peak month,High,Karthik M,2024-11-09,2024-11-30,Closed,See weekly status call notes
+R034,Kestrel Medical,Issue,Key typesetter on leave in peak month,Low,Priya S,2024-08-08,2024-08-29,Closed,See weekly status call notes

@@ -1,0 +1,99 @@
+MilestoneID,ProjectID,Client,Milestone,Owner,PlannedDate,ForecastDate,ActualDate
+MS0001,PRJ001,Northbridge Press,Kick-off & requirements,Karthik M,2024-12-21,2024-12-21,2024-12-22
+MS0002,PRJ001,Northbridge Press,Sample / pilot approved,Karthik M,2025-01-07,2025-01-07,2025-01-07
+MS0003,PRJ001,Northbridge Press,Workflow set-up,Karthik M,2025-02-01,2025-02-01,
+MS0004,PRJ001,Northbridge Press,Batch 1 delivered,Karthik M,2025-02-18,2025-02-20,
+MS0005,PRJ001,Northbridge Press,Batch 2 delivered,Karthik M,2025-03-10,2025-03-12,
+MS0006,PRJ001,Northbridge Press,Final delivery,Karthik M,2025-03-22,2025-03-24,
+MS0007,PRJ001,Northbridge Press,Client sign-off,Karthik M,2025-04-10,2025-04-12,
+MS0008,PRJ002,Larkfield Academic,Kick-off & requirements,Balaji R,2024-10-11,2024-10-11,2024-10-12
+MS0009,PRJ002,Larkfield Academic,Sample / pilot approved,Balaji R,2024-10-29,2024-10-29,2024-10-27
+MS0010,PRJ002,Larkfield Academic,Workflow set-up,Balaji R,2024-11-16,2024-11-16,2024-11-14
+MS0011,PRJ002,Larkfield Academic,Batch 1 delivered,Balaji R,2024-11-29,2024-11-29,2024-12-01
+MS0012,PRJ002,Larkfield Academic,Batch 2 delivered,Balaji R,2024-12-12,2024-12-12,2024-12-13
+MS0013,PRJ002,Larkfield Academic,Final delivery,Balaji R,2024-12-27,2024-12-27,2024-12-27
+MS0014,PRJ002,Larkfield Academic,Client sign-off,Balaji R,2025-01-21,2025-01-21,2025-01-23
+MS0015,PRJ003,Larkfield Academic,Kick-off & requirements,Karthik M,2024-09-30,2024-09-30,2024-09-29
+MS0016,PRJ003,Larkfield Academic,Sample / pilot approved,Karthik M,2024-10-15,2024-10-15,2024-10-14
+MS0017,PRJ003,Larkfield Academic,Workflow set-up,Karthik M,2024-10-31,2024-10-31,2024-11-01
+MS0018,PRJ003,Larkfield Academic,Batch 1 delivered,Karthik M,2024-11-20,2024-11-20,2024-11-22
+MS0019,PRJ003,Larkfield Academic,Batch 2 delivered,Karthik M,2024-12-14,2024-12-14,2024-12-16
+MS0020,PRJ003,Larkfield Academic,Final delivery,Karthik M,2025-01-10,2025-01-10,2025-01-09
+MS0021,PRJ003,Larkfield Academic,Client sign-off,Karthik M,2025-02-06,2025-02-06,
+MS0022,PRJ004,Bluewater Journals,Kick-off & requirements,Priya S,2024-09-24,2024-09-25,2024-09-23
+MS0023,PRJ004,Bluewater Journals,Sample / pilot approved,Priya S,2024-10-06,2024-10-10,2024-10-10
+MS0024,PRJ004,Bluewater Journals,Workflow set-up,Priya S,2024-10-31,2024-11-04,2024-11-02
+MS0025,PRJ004,Bluewater Journals,Batch 1 delivered,Priya S,2024-11-25,2024-11-29,2024-11-28
+MS0026,PRJ004,Bluewater Journals,Batch 2 delivered,Priya S,2024-12-14,2024-12-21,2024-12-23
+MS0027,PRJ004,Bluewater Journals,Final delivery,Priya S,2024-12-27,2025-01-08,2025-01-10
+MS0028,PRJ004,Bluewater Journals,Client sign-off,Priya S,2025-01-21,2025-02-08,
+MS0029,PRJ005,Meridian Books,Kick-off & requirements,Balaji R,2024-11-07,2024-11-07,2024-11-05
+MS0030,PRJ005,Meridian Books,Sample / pilot approved,Balaji R,2024-12-03,2024-12-04,2024-12-02
+MS0031,PRJ005,Meridian Books,Workflow set-up,Balaji R,2024-12-28,2024-12-29,2024-12-30
+MS0032,PRJ005,Meridian Books,Batch 1 delivered,Balaji R,2025-01-16,2025-01-17,2025-01-17
+MS0033,PRJ005,Meridian Books,Batch 2 delivered,Balaji R,2025-02-12,2025-02-13,
+MS0034,PRJ005,Meridian Books,Final delivery,Balaji R,2025-02-27,2025-03-01,
+MS0035,PRJ005,Meridian Books,Client sign-off,Balaji R,2025-03-24,2025-03-26,
+MS0036,PRJ006,Oakline Publishing,Kick-off & requirements,Divya N,2024-11-14,2024-11-14,2024-11-12
+MS0037,PRJ006,Oakline Publishing,Sample / pilot approved,Divya N,2024-12-10,2024-12-14,2024-12-14
+MS0038,PRJ006,Oakline Publishing,Workflow set-up,Divya N,2024-12-23,2024-12-29,2024-12-27
+MS0039,PRJ006,Oakline Publishing,Batch 1 delivered,Divya N,2025-01-15,2025-01-22,2025-01-23
+MS0040,PRJ006,Oakline Publishing,Batch 2 delivered,Divya N,2025-02-06,2025-02-15,
+MS0041,PRJ006,Oakline Publishing,Final delivery,Divya N,2025-03-05,2025-03-14,
+MS0042,PRJ006,Oakline Publishing,Client sign-off,Divya N,2025-03-22,2025-03-31,
+MS0043,PRJ007,Oakline Publishing,Kick-off & requirements,Priya S,2024-11-17,2024-11-17,2024-11-19
+MS0044,PRJ007,Oakline Publishing,Sample / pilot approved,Priya S,2024-12-09,2024-12-13,2024-12-12
+MS0045,PRJ007,Oakline Publishing,Workflow set-up,Priya S,2025-01-07,2025-01-11,2025-01-09
+MS0046,PRJ007,Oakline Publishing,Batch 1 delivered,Priya S,2025-01-19,2025-01-23,2025-01-21
+MS0047,PRJ007,Oakline Publishing,Batch 2 delivered,Priya S,2025-02-09,2025-02-13,
+MS0048,PRJ007,Oakline Publishing,Final delivery,Priya S,2025-02-24,2025-02-28,
+MS0049,PRJ007,Oakline Publishing,Client sign-off,Priya S,2025-03-18,2025-03-22,
+MS0050,PRJ008,Harbourview Media,Kick-off & requirements,Priya S,2024-12-16,2024-12-16,2024-12-18
+MS0051,PRJ008,Harbourview Media,Sample / pilot approved,Priya S,2025-01-14,2025-01-14,2025-01-12
+MS0052,PRJ008,Harbourview Media,Workflow set-up,Priya S,2025-02-02,2025-02-03,
+MS0053,PRJ008,Harbourview Media,Batch 1 delivered,Priya S,2025-02-14,2025-02-16,
+MS0054,PRJ008,Harbourview Media,Batch 2 delivered,Priya S,2025-03-13,2025-03-15,
+MS0055,PRJ008,Harbourview Media,Final delivery,Priya S,2025-04-09,2025-04-11,
+MS0056,PRJ008,Harbourview Media,Client sign-off,Priya S,2025-05-07,2025-05-11,
+MS0057,PRJ009,Harbourview Media,Kick-off & requirements,Priya S,2024-12-22,2024-12-22,2024-12-23
+MS0058,PRJ009,Harbourview Media,Sample / pilot approved,Priya S,2025-01-17,2025-01-17,2025-01-18
+MS0059,PRJ009,Harbourview Media,Workflow set-up,Priya S,2025-02-11,2025-02-11,
+MS0060,PRJ009,Harbourview Media,Batch 1 delivered,Priya S,2025-02-24,2025-02-28,
+MS0061,PRJ009,Harbourview Media,Batch 2 delivered,Priya S,2025-03-13,2025-03-17,
+MS0062,PRJ009,Harbourview Media,Final delivery,Priya S,2025-04-09,2025-04-13,
+MS0063,PRJ009,Harbourview Media,Client sign-off,Priya S,2025-05-06,2025-05-12,
+MS0064,PRJ010,Silverpine Education,Kick-off & requirements,Priya S,2024-11-17,2024-11-17,2024-11-18
+MS0065,PRJ010,Silverpine Education,Sample / pilot approved,Priya S,2024-12-15,2024-12-15,2024-12-16
+MS0066,PRJ010,Silverpine Education,Workflow set-up,Priya S,2025-01-12,2025-01-12,2025-01-11
+MS0067,PRJ010,Silverpine Education,Batch 1 delivered,Priya S,2025-01-28,2025-01-29,2025-01-29
+MS0068,PRJ010,Silverpine Education,Batch 2 delivered,Priya S,2025-02-16,2025-02-17,
+MS0069,PRJ010,Silverpine Education,Final delivery,Priya S,2025-03-08,2025-03-10,
+MS0070,PRJ010,Silverpine Education,Client sign-off,Priya S,2025-04-04,2025-04-07,
+MS0071,PRJ011,Redstone Scientific,Kick-off & requirements,Karthik M,2024-10-06,2024-10-06,2024-10-08
+MS0072,PRJ011,Redstone Scientific,Sample / pilot approved,Karthik M,2024-10-30,2024-10-30,2024-10-30
+MS0073,PRJ011,Redstone Scientific,Workflow set-up,Karthik M,2024-11-15,2024-11-15,2024-11-14
+MS0074,PRJ011,Redstone Scientific,Batch 1 delivered,Karthik M,2024-12-11,2024-12-11,2024-12-11
+MS0075,PRJ011,Redstone Scientific,Batch 2 delivered,Karthik M,2024-12-24,2024-12-26,2024-12-28
+MS0076,PRJ011,Redstone Scientific,Final delivery,Karthik M,2025-01-21,2025-01-23,2025-01-24
+MS0077,PRJ011,Redstone Scientific,Client sign-off,Karthik M,2025-02-18,2025-02-20,
+MS0078,PRJ012,Westgate Law Reports,Kick-off & requirements,Balaji R,2024-10-20,2024-10-20,2024-10-18
+MS0079,PRJ012,Westgate Law Reports,Sample / pilot approved,Balaji R,2024-11-16,2024-11-16,2024-11-18
+MS0080,PRJ012,Westgate Law Reports,Workflow set-up,Balaji R,2024-12-03,2024-12-03,2024-12-02
+MS0081,PRJ012,Westgate Law Reports,Batch 1 delivered,Balaji R,2024-12-28,2024-12-28,2024-12-28
+MS0082,PRJ012,Westgate Law Reports,Batch 2 delivered,Balaji R,2025-01-22,2025-01-22,2025-01-23
+MS0083,PRJ012,Westgate Law Reports,Final delivery,Balaji R,2025-02-10,2025-02-10,
+MS0084,PRJ012,Westgate Law Reports,Client sign-off,Balaji R,2025-03-08,2025-03-08,
+MS0085,PRJ013,Kestrel Medical,Kick-off & requirements,Divya N,2024-12-11,2024-12-11,2024-12-13
+MS0086,PRJ013,Kestrel Medical,Sample / pilot approved,Divya N,2025-01-06,2025-01-06,2025-01-06
+MS0087,PRJ013,Kestrel Medical,Workflow set-up,Divya N,2025-01-23,2025-01-23,2025-01-22
+MS0088,PRJ013,Kestrel Medical,Batch 1 delivered,Divya N,2025-02-11,2025-02-11,
+MS0089,PRJ013,Kestrel Medical,Batch 2 delivered,Divya N,2025-03-12,2025-03-12,
+MS0090,PRJ013,Kestrel Medical,Final delivery,Divya N,2025-03-28,2025-03-28,
+MS0091,PRJ013,Kestrel Medical,Client sign-off,Divya N,2025-04-18,2025-04-18,
+MS0092,PRJ014,Kestrel Medical,Kick-off & requirements,Karthik M,2024-12-12,2024-12-14,2024-12-14
+MS0093,PRJ014,Kestrel Medical,Sample / pilot approved,Karthik M,2025-01-06,2025-01-08,2025-01-09
+MS0094,PRJ014,Kestrel Medical,Workflow set-up,Karthik M,2025-01-26,2025-01-28,2025-01-26
+MS0095,PRJ014,Kestrel Medical,Batch 1 delivered,Karthik M,2025-02-09,2025-02-11,
+MS0096,PRJ014,Kestrel Medical,Batch 2 delivered,Karthik M,2025-02-23,2025-02-25,
+MS0097,PRJ014,Kestrel Medical,Final delivery,Karthik M,2025-03-08,2025-03-10,
+MS0098,PRJ014,Kestrel Medical,Client sign-off,Karthik M,2025-04-05,2025-04-07,

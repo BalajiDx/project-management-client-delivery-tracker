@@ -1,0 +1,15 @@
+ProjectID,Client,ProjectName,Owner,StartDate,BudgetHours
+PRJ001,Northbridge Press,Northbridge Book conversion (ePub),Karthik M,2024-12-02,615
+PRJ002,Larkfield Academic,Larkfield Book conversion (ePub),Balaji R,2024-09-19,1460
+PRJ003,Larkfield Academic,Larkfield Platform migration,Karthik M,2024-09-09,1739
+PRJ004,Bluewater Journals,Bluewater Editorial services,Priya S,2024-09-02,2925
+PRJ005,Meridian Books,Meridian Platform migration,Balaji R,2024-10-09,2643
+PRJ006,Oakline Publishing,Oakline Book conversion (ePub),Divya N,2024-10-24,1673
+PRJ007,Oakline Publishing,Oakline Journal production,Priya S,2024-11-02,3555
+PRJ008,Harbourview Media,Harbourview Book conversion (ePub),Priya S,2024-11-21,1036
+PRJ009,Harbourview Media,Harbourview Platform migration,Priya S,2024-12-06,2205
+PRJ010,Silverpine Education,Silverpine Backlist digitisation,Priya S,2024-10-24,2420
+PRJ011,Redstone Scientific,Redstone Editorial services,Karthik M,2024-09-18,1273
+PRJ012,Westgate Law Reports,Westgate Platform migration,Balaji R,2024-09-21,1748
+PRJ013,Kestrel Medical,Kestrel Platform migration,Divya N,2024-11-18,933
+PRJ014,Kestrel Medical,Kestrel Editorial services,Karthik M,2024-11-17,1243
